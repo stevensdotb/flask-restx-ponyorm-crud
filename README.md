@@ -1,2 +1,1 @@
-# flask-restx-ponyorm-crud
-Flask Restx API with PonyORM
+## Flask Restx API with PonyORM
